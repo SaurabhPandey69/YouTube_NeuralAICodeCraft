@@ -33,7 +33,8 @@ This repository contains all the code files from the **NeuralAICodeCraft** YouTu
 
 ## 🔔 Subscribe
 
-[YouTube.com/@NeuralAIC](https://youtube.com/@NeuralAIC)
+[YouTube.com/@NeuralAICode]
+(https://www.youtube.com/@NeuralAICode)
 
 ## 📧 Contact
 
