@@ -1,0 +1,17 @@
+# Mac system files
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# Video files (too large for GitHub)
+*.mp4
+*.mov
+*.png
+*.jpg
+
