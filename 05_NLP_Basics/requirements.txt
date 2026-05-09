@@ -1,0 +1,14 @@
+# NLP Basics Requirements
+# Install with: pip install -r requirements.txt
+
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+joblib
+# Optional (for advanced)
+gensim
+transformers
+torch
+scipy
